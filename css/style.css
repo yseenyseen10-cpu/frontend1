@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+section{
+    text-align: center;
+    height:100vh ;
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+
+    width: 30%;
+}
+img{
+    border-radius: 2rem;
+    width: 100%;
+    -webkit-border-radius: 2rem;
+    -moz-border-radius: 2rem;
+    -ms-border-radius: 2rem;
+    -o-border-radius: 2rem;
+}
